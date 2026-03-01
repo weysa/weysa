@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **wisesasats@gmail.com**
 
-![Stats](./profile/stats.svg)
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
